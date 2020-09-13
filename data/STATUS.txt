@@ -6,9 +6,9 @@ Loop name    : 001EC6050C9B
 Model        : A8810-0
 
 ----- Time: ----------------------
-Time (UTC)   : Sun Sep 13 14:45:01 UTC 2020
-Time (Local) : Sun Sep 13 07:45:01 PDT 2020
-Uptime       : 07:45:01 up 88 days,  2:42, load average: 0.06, 0.02, 0.00
+Time (UTC)   : Sun Sep 13 15:30:01 UTC 2020
+Time (Local) : Sun Sep 13 08:30:01 PDT 2020
+Uptime       : 08:30:01 up 88 days,  3:27, load average: 0.02, 0.06, 0.01
 
 ----- Disk Usage: -----------------
 Filesystem                Size      Used Available Use% Mounted on
