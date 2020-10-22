@@ -6,23 +6,23 @@ Loop name    : 001EC6050C9B
 Model        : A8810-0
 
 ----- Time: ----------------------
-Time (UTC)   : Thu Oct 22 02:15:01 UTC 2020
-Time (Local) : Wed Oct 21 19:15:01 PDT 2020
-Uptime       : 19:15:01 up 126 days, 14:12, load average: 0.00, 0.02, 0.00
+Time (UTC)   : Thu Oct 22 03:00:01 UTC 2020
+Time (Local) : Wed Oct 21 20:00:01 PDT 2020
+Uptime       : 20:00:01 up 126 days, 14:57, load average: 0.09, 0.05, 0.00
 
 ----- Disk Usage: -----------------
 Filesystem                Size      Used Available Use% Mounted on
 /dev/ram0                 1.7M      1.7M     52.0k  97% /
 tmpfs                  1000.0k     80.0k    920.0k   8% /tmp
-/dev/mtdblock3           11.0M      2.3M      8.7M  21% /mnt/main
+/dev/mtdblock3           11.0M      2.4M      8.6M  21% /mnt/main
 /dev/loop0                1.2M      1.2M         0 100% /usr
 /dev/loop1                2.9M      2.9M         0 100% /as
 /dev/loop2              316.0k    316.0k         0 100% /asmodule/Obvius_FroniusGateway
 
 ----- Memory Usage: (K bytes) -----
               total         used         free       shared      buffers
-  Mem:        29976        27784         2192            0         1304
+  Mem:        29976        27824         2152            0         1304
  Swap:            0            0            0
-Total:        29976        27784         2192
+Total:        29976        27824         2152
 
 -----------------------------------
